@@ -28,9 +28,13 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=jonydavid&theme=dark&hide_border=false&include_all_commits=true&count_private=true) &nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=jonydavid&theme=dark&hide_border=false) &nbsp;
 
+
 ![](https://github-contributor-stats.vercel.app/api?username=jonydavid&limit=5&theme=dark&combine_all_yearly_contributions=true) &nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonydavid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 📈 Activity Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonydavid&bg_color=000009&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonydavid&theme=date_night)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonydavid&theme=date_night)&nbsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonydavid&theme=date_night&utcOffset=8)
