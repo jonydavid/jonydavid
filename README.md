@@ -6,7 +6,7 @@
 	<a href="mailto:jonydavid94@gmail.com"> <img src="https://img.icons8.com/color/35/gmail.png"/></a>
 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full%20Stack%20Developer%20%3BAlways%20learning%20new%20things!%3BExperienced%20in%20Mockups%20&center=true&width=500&height=50"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?lines=Full%20Stack%20Developer%20%3BAlways%20learning%20new%20things!%3BExperienced%20in%20Mockups%20&center=true&width=500&height=50"></a>
 </p>
 <br>
 
